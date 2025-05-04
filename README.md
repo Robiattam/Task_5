@@ -1,2 +1,2 @@
 # Task_5
-In this I applied a  tree-based machine learning models to predict the presence of heart disease using the UCI Heart Disease dataset.
+In this I applied a  tree-based machine learning models to predict the presence of heart disease using the UCI Heart Disease dataset. To avoid overfitting, we control the complexity of the model by limiting the depth of the tree. Next, we train a Random Forest model and compare its performance to the decision tree to see which performs better. We then analyze the feature importances to understand which input variables contribute most to the predictions. Finally, we evaluate both models using cross-validation to ensure that the results are robust and generalize well to unseen dat
